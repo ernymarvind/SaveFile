@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SaveFile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="slide_1_title">Google Drive API Test!</string>
+    <string name="slide_1_desc">Hi, welcome to my app demo\n using Google Drive API.</string>
+
+    <string name="slide_2_title">File Creation!</string>
+    <string name="slide_2_desc">
+        A by tapping the button on the main screen, it will add a file to your \nGoogle Drive.\n\n
+        Please try it, it is just a .txt file with my name on it. ;)
+    </string>
+
+    <string name="slide_3_title">Last Stop Reminder</string>
+    <string name="slide_3_desc">Allow us to sign you in with Google on the next screen to start adding text files to your Drive.</string>
+
+    <string name="main_activity_header_text">Google Drive File Test</string>
+    <string name="btn_add_file_to_drive">Add File To My Google Drive</string>
+</resources>
